@@ -8,3 +8,31 @@ if age >= 18:
         print("You are not a citizen")
 else:
     print("You are under age")
+
+# Decision making statement
+
+# age = 19
+
+# if age >= 18:
+#     print("You are eligible")
+
+# age = 16
+
+# if age >= 18:
+#     print("You are eliglible")
+# else:
+#     print("Not eligible")    
+    
+
+# for loop
+
+for i in range(5):
+    print(i)
+
+# while loop
+
+i = 1 
+
+while i <=5:
+    print(i)
+    i += 1
