@@ -26,13 +26,28 @@ else:
 
 # for loop
 
-for i in range(5):
+# for i in range(5):
+#     print(i)
+
+# # while loop
+
+# i = 1 
+
+# while i <=5:
+#     print(i)
+#     i += 1
+
+# break
+
+for i in range(1,10):
+    if i == 5:
+        break
     print(i)
 
-# while loop
+# continue
 
-i = 1 
-
-while i <=5:
+for i in range(1,6):
+    if i == 3:
+        continue
     print(i)
-    i += 1
+    
