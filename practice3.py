@@ -1,13 +1,13 @@
-age = 20
-citizen = True
+# age = 20
+# citizen = True
 
-if age >= 18:
-    if citizen == True:
-        print("You can vote")
-    else:
-        print("You are not a citizen")
-else:
-    print("You are under age")
+# if age >= 18:
+#     if citizen == True:
+#         print("You can vote")
+#     else:
+#         print("You are not a citizen")
+# else:
+#     print("You are under age")
 
 # Decision making statement
 
@@ -39,15 +39,43 @@ else:
 
 # break
 
-for i in range(1,10):
-    if i == 5:
-        break
-    print(i)
+# for i in range(1,10):
+#     if i == 5:
+#         break
+#     print(i)
 
-# continue
+#  continue
 
-for i in range(1,6):
-    if i == 3:
-        continue
-    print(i)
+# for i in range(1,6):
+#     if i == 3:
+#         continue
+#     print(i)
     
+# pass
+
+# for i in range(1,6):
+#     if i == 3:
+#         pass
+#     print(i)
+
+# Even odd program
+
+# num = int(input("Enter the number: "))
+
+# if num % 2 == 0:
+#     print("Even number")
+# else:
+#     print("odd number")    
+
+# num  = int(input("Enter the number: "))
+
+# if num > 0:
+#     print("positive")
+# elif num < 0:
+#         print("negative")
+# else:
+#     print("zero") 
+
+
+
+
