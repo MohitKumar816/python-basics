@@ -76,6 +76,54 @@
 # else:
 #     print("zero") 
 
+# Strings
+
+# city = "Delhi"
+
+# print(city[0])
+# print(city[2])
+
+# Concatenation
+
+# a = "Mohit"
+
+# b = "Kumar"
+
+# print(a + " " + b)
+
+# Repetation
+
+# print("Hi " * 3)
+
+# Membership
+
+# print("E" in "Education" )
+# print("G" in "Education")
+
+# Comparison
+
+# print("abc" == "abc")
+# print("abc" != "xyz")
+
+# String Slicing
+
+# text = "Coding"
+
+# print(text[0:3])
+# print(text[2:6])
+
+# String length
+
+# text = "Program"
+
+# print(len(text))
+
+# print(max("Education"))
+
+# print(min("Education"))
+
+# print(sorted("city"))
+
 
 
 
