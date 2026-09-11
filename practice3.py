@@ -124,6 +124,95 @@
 
 # print(sorted("city"))
 
+# String Methods
+
+# name  = "mohit"
+
+# print(name.upper())
+
+# print("PYTHON".lower())
+
+# print("python".capitalize())
+
+# print("hello world".title())
+
+# print("python".replace("p","r"))
+
+# print("Python".find("t"))
+
+# print("banana".count("a"))
+
+# text = "A B C"
+
+# print(text.split())
+
+# text = " python "
+
+# print(text.strip())
+
+# List Methods
+
+# marks = [80,90,70,60]
+
+# print(marks[0])
+# print(marks[2])
+
+# a = [2,3]
+# b = [8,4]
+
+# print(a + b)
+
+# # Repetation
+
+# print([4] * 2)
+
+# print(20 in [20,40,90])
+
+# numbers = [10,20]
+
+# numbers.append(30)
+
+# print(numbers)
+
+# numbers.insert(1,15)
+
+# print(numbers)
+
+# a = [1,2]
+
+# a.extend([3,4])
+
+# print(a)
+
+# a = [1,2,4,6]
+
+# a.remove(6)
+
+# print(a)
+
+# a = [2,4,8,7]
+
+# a.pop()
+
+# print(a)
+
+# a.clear()
+
+# print(a)
+
+# text = "python"
+
+# print(len(text))
+
+# print(max(text))
+
+# print(min(text))
+
+
+
+
+
+
 
 
 
