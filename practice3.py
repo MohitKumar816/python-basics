@@ -208,7 +208,13 @@
 
 # print(min(text))
 
+#  numbers = [4,2,8,9]
 
+# print(sum(numbers))
+
+# print(sorted(numbers))
+
+#  print (sorted(numbers, reverse=True))
 
 
 
