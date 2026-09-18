@@ -1,54 +1,102 @@
-student = {
-    "name": "Mohit",
-    "age": "23",
-    "course": "MCA",
-}
+# student = {
+#     "name": "Mohit",
+#     "age": "23",
+#     "course": "MCA",
+# }
 
-print(student)
+# print(student)
 
-mobile = {}
+# mobile = {}
 
-print(mobile)
+# print(mobile)
 
-print(student["name"])
-print(student["age"])
-print(student["course"])
+# print(student["name"])
+# print(student["age"])
+# print(student["course"])
 
 # get Method for accessing the values
 
-print(student.get("name"))
-print(student.get("age"))
-print(student.get("course"))
+# print(student.get("name"))
+# print(student.get("age"))
+# print(student.get("course"))
 
-print(student.get("city"))
+# print(student.get("city"))
 
 #  print(student["city"])
 
-student["city"] = "Delhi"
+# student["city"] = "Delhi"
+
+# print(student)
+
+# student["age"] = "24"
+
+# print(student)
+
+# student.pop("city")
+
+# print(student)
+
+# student["city"] = "Delhi"
+
+# print(student)
+
+# student.popitem()
+
+# print(student)
+
+# student["city"] = "Delhi"
+
+# print(student)
+
+# del student["city"]
+
+# print(student)
+
+#  del student
+
+# print(student)
+
+student = {
+    "name": "Mohit",
+    "age": 23,
+    "course": "MCA"
+}
+
+#  student.clear()
 
 print(student)
 
-student["age"] = "24"
+student["age"] = 24
 
 print(student)
 
-student.pop("city")
+# Function
 
-print(student)
+def greet():
+    print("Hello Mohit")
+    
 
-student["city"] = "Delhi"
+greet()
 
-print(student)
+def student(name):
+    print(name)
 
-student.popitem()
+student("Mohit")
 
-print(student)
+def student(name,course):
+    print("Name" , name)
+    print("Course", course)
 
-student["city"] = "Delhi"
+student("Mohit","MCA")
 
-print(student)
+def sum(a,b):
+    print(a + b)
 
-del student["city"]
+sum(10,20)    
 
-print(student)
+
+    
+    
+
+
 
