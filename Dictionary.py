@@ -56,46 +56,51 @@
 
 # print(student)
 
-student = {
-    "name": "Mohit",
-    "age": 23,
-    "course": "MCA"
-}
+# student = {
+#     "name": "Mohit",
+#     "age": 23,
+#     "course": "MCA"
+# }
 
 #  student.clear()
 
-print(student)
+# print(student)
 
-student["age"] = 24
+# student["age"] = 24
 
-print(student)
+# print(student)
 
 # Function
 
-def greet():
-    print("Hello Mohit")
-    
+# def greet():
+#     print("Hello Mohit")
 
-greet()
+# greet()
 
-def student(name):
-    print(name)
+# def student(name):
+#     print(name)
 
-student("Mohit")
+# student("Mohit")
 
-def student(name,course):
-    print("Name" , name)
-    print("Course", course)
+# def student(name,course):
+#     print("Name" , name)
+#     print("Course", course)
 
-student("Mohit","MCA")
+# student("Mohit","MCA")
 
-def sum(a,b):
-    print(a + b)
+# def sum(a,b):
+#     print(a + b)
 
-sum(10,20)    
+# sum(10,20)    
+
+def add(a,b):
+    return a + b
+
+result = add(10,20)
+
+print(result)
 
 
-    
     
 
 
