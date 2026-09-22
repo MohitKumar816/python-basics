@@ -100,7 +100,16 @@ result = add(10,20)
 
 print(result)
 
+# Mutuable data 
 
+def change(numbers):
+    numbers[0] = 40
+
+numbers = [10,20,30]
+
+change(numbers)
+
+print(numbers)
     
 
 
