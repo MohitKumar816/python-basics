@@ -24,19 +24,32 @@ print(type(e))
 f = {1,2}
 print(type(f))
 
-name = "Mohit"
-print(name)
+# name = "Mohit"
+# print(name)
 
-name = input("Enter name:")
-print(name)
+# name = input("Enter name:")
+# print(name)
 
-age = input("Enter age:")
-print(age)
+# age = input("Enter age:")
+# print(age)
 
-course = input("Enter Course:")
-print(course)
+# course = input("Enter Course:")
+# print(course)
 
+# for loop 
 
+for i  in range(10):
+    print(i)
+
+# while loop
+
+i = 1
+
+while i <=5:
+    print(i)
+    i += 1
+
+    
 
 
 
