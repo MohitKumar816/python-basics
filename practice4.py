@@ -38,18 +38,60 @@ print(type(f))
 
 # for loop 
 
-for i  in range(10):
-    print(i)
+# for i  in range(10):
+#     print(i)
 
 # while loop
 
-i = 1
+# i = 1
 
-while i <=5:
-    print(i)
-    i += 1
+# while i <=5:
+#     print(i)
+#     i += 1
 
+# break
+
+# for i in range(10):
+#     if i == 8:
+#         break
+#     print(i)
+
+# for i in range(6):
+#     if i == 4:
+#         continue
+#     print(i)
     
+# for  i in range(6):
+#     if i == 4:
+#         pass
+#     print(i)
+
+# String
+
+# name = "Mohit"
+
+# print(name[0])
+# print(name[2])
+
+a = "Mohit"
+b = "Kumar"
+
+print(a + " " + b)
+
+print("Hi" * 3)
+
+print("P" in "Python")
+print("A" in "Python")
+
+print("abc" == "abc")
+
+
+
+
+
+
+
+ 
 
 
 
