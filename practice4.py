@@ -73,17 +73,34 @@ print(type(f))
 # print(name[0])
 # print(name[2])
 
-a = "Mohit"
-b = "Kumar"
+# a = "Mohit"
+# b = "Kumar"
 
-print(a + " " + b)
+# print(a + " " + b)
 
-print("Hi" * 3)
+# print("Hi" * 3)
+# print("P" in "Python")
+# print("A" in "Python")
 
-print("P" in "Python")
-print("A" in "Python")
+# print("abc" == "abc")
 
-print("abc" == "abc")
+# marks = [10,20,30,40]
+
+# print(marks[0])
+# print(marks[1])
+
+# string function
+
+text = "Python"
+
+print(len(text))
+
+print(max(text))
+
+print(min(text))
+
+print(sorted("cab"))
+
 
 
 
