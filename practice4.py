@@ -101,6 +101,24 @@ print(min(text))
 
 print(sorted("cab"))
 
+name = "rahul"
+
+print(name.upper())
+
+print("PYTHON".lower())
+
+print("python".capitalize())
+
+print("hello world".title())
+
+print("Python".replace("P","J"))
+
+print("Python".find("t"))
+
+
+
+
+
 
 
 
