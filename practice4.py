@@ -115,8 +115,7 @@ print("Python".replace("P","J"))
 
 print("Python".find("t"))
 
-print("program".capitalize())
-
+print("Python".replace("P","T"))
 
 
 
