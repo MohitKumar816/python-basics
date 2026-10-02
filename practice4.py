@@ -115,7 +115,10 @@ print("Python".replace("P","J"))
 
 print("Python".find("t"))
 
-print("Python".replace("P","T"))
+print("PYTHON".lower())
+
+
+
 
 
 
